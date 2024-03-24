@@ -1,6 +1,6 @@
 # Alô, alô! Vocês sabem quem sou eu? 
 
-![Jubs-pic](./img/juliana.png=150x150)
+<img align="right" alt="Jubs-pic" height="150" style="border-radius:50px;" src="./img/juliana.png">
 
 Me chamo Juliana, tenho 27 anos e sou natural de Salvador/BA.
 
