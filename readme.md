@@ -1,6 +1,6 @@
 # Alô, alô! Vocês sabem quem sou eu? 
 
-![Jubs-pic](./img/juliana.png){:height="150px" style="border-radius:50px;"}
+![Jubs-pic](./img/juliana.png=150x150)
 
 Me chamo Juliana, tenho 27 anos e sou natural de Salvador/BA.
 
@@ -22,7 +22,7 @@ Um pouco sobre mim:
 
 | Laika Maria :innocent:                                      | Oreo José :dog:                                       | Salém :cat:                                      |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Laika](./img/Laika.png){:height="150px" style="border-radius:50px;"}| ![Oreo](./img/Oreo.png){:height="150px" style="border-radius:50px;"}| ![Salém](./img/Salém.png){:height="150px" style="border-radius:50px;"}|
+| ![Laika](./img/Laika.png)| ![Oreo](./img/Oreo.png)| ![Salém](./img/Salém.png)|
 
 
 ##
