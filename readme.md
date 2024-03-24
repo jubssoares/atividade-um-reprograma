@@ -10,12 +10,12 @@ Um pouco sobre mim:
 - :guitar: Amo música, principalmente rock e metal;
 - :jack_o_lantern: Um dos meus maiores passatempos é assistir filmes e séries, sendo terror o gênero favorito;
 - :blue_heart: Sou de corvinal;
-- :woman: Ela/Dela
+- :woman: Ela/Dela;
 - Favoritos:
-    - :movie_camera: Filme: O fabuloso destino de Amélie Poulain
-    - :tv: Série: My mad fat diary
-    - :books: Livro: O pequeno príncipe
-    - :notes: Música: Scar Tissue - Red Hot Chili Peppers
+    - :movie_camera: Filme: O fabuloso destino de Amélie Poulain;
+    - :tv: Série: My mad fat diary;
+    - :books: Livro: O pequeno príncipe;
+    - :notes: Música: Scar Tissue - Red Hot Chili Peppers.
 
 ##
 
